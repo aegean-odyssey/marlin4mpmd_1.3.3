@@ -2,3 +2,5 @@
 /*.MAP
 /*.map
 /*.bin
+/build/
+/build/**
