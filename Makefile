@@ -1,6 +1,6 @@
 ### simple(-ish) makefile to build Marlin4MPDM images
 
-PROJECT = marlin4mpdm_1.3.3
+PROJECT = marlin4mpmd_1.3.3
 VERSION = 133r1
 
 DEFINES  = -DSTM32 -DSTM32F0 -DSTM32F070xB -DARM_MATH_CM0
